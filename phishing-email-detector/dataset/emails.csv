@@ -1,0 +1,91 @@
+text,label
+"Urgent: Your PayPal account has been temporarily restricted due to unauthorized login attempts. Verify your identity immediately at http://192.168.1.105/paypal/verify or your account will be permanently closed.",1
+"Dear customer, your Netflix subscription payment failed. Update your billing information within 24 hours at http://netflix-billing-update.top/login to prevent service interruption.",1
+"Security Alert: A new device signed in to your Microsoft 365 account from Moscow, Russia. If this was not you, reset your password now at http://login.microsoft.com.account-verification.xyz/auth",1
+"FINAL NOTICE: Your Chase Online banking access has been suspended due to security concerns. Please click http://chase-security-update.com/signin to unlock your account immediately.",1
+"Apple Support: Your iCloud storage has exceeded its quota and photos are pending deletion. Upgrade your account now at http://icloud-storage-restore.club/appleid",1
+"DHL Express Delivery: Your parcel tracking #849201 is on hold due to unpaid customs fee of $2.50. Pay immediately at http://dhl-express-tracking.work/delivery to release shipment.",1
+"Action Required: Your Google Workspace password expires in 2 hours. Validate your credentials at http://google-security-review.sbs/verify?user=corporate",1
+"Internal Payroll Notice: All employees must re-submit their direct deposit banking details due to fiscal year rollover. Submit here: http://hr-portal-secure.top/payroll",1
+"DocuSign: You have received a confidential document 'Q3 Performance Bonus Agreement' requiring signature. Review and sign at http://docusign-secure-docs.xyz/envelope/view",1
+"IRS Tax Notice: You are eligible for an unclaimed tax refund of $1,420. Submit your SSN and bank details at http://irs-gov-refund-portal.cam/claim to receive payment.",1
+"Amazon Security: We detected an unusual order of iPhone 15 Pro for $1,199 on your account. If you did not make this purchase, cancel order now: http://amazon-dispute-center.top/orders",1
+"Wells Fargo Alert: A wire transfer of $4,500 is pending approval. If unauthorized, click immediately to decline: http://45.33.32.156/wellsfargo/cancel",1
+"Bank of America: Your debit card has been deactivated for fraudulent activity. Reactivate your card right now at http://bofa-card-reactivate.xyz/login",1
+"IT Department: Mandatory critical system update for VPN and Outlook. Download the security patch executable here: http://corp-it-patch.xyz/update.exe",1
+"FedEx Tracking: We attempted delivery today but no recipient was available. Reschedule your delivery and confirm address: http://fedex-parcel-redelivery.buzz/schedule",1
+"Urgent CEO Request: I am in a board meeting and cannot take calls. Please purchase $500 Apple Gift Cards for our client immediately and reply with redemption codes.",1
+"Dropbox: 'Confidential Financial Statement 2026.pdf' has been shared with you. Sign in with your corporate email to view: http://dropbox-fileshare.top/shared/doc",1
+"Instagram Security: Your account is scheduled for deletion due to copyright infringement. Appeal this decision within 12 hours: http://instagram-copyright-appeal.cf/verify",1
+"Meta Business Manager: Your Facebook advertising account has been disabled. Verify your payment method to restore access: http://facebook-adsupport-verify.xyz/login",1
+"Warning: Malware infection detected on your device. Your passwords and camera have been compromised. Send 0.05 Bitcoin to bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq within 24 hours.",1
+"Citibank Alert: Suspension notice on account ending in 4102. Action required immediately to avoid penalties. Verify: http://citibank-alert-center.club/auth",1
+"UPS Notice: Package exception detected. Please update your delivery address to avoid return to sender: http://ups-delivery-exception.link/track",1
+"LinkedIn: You have 5 new pending connection requests and an urgent private message from a recruiter. View messages: http://linkedin-network-connect.top/inbox",1
+"Adobe Creative Cloud: Your subscription has lapsed and cloud storage will be purged. Update credit card immediately at http://adobe-account-billing.xyz/renew",1
+"HR Department: Employee handbook revision and annual policy acknowledgment. Mandatory sign-off required today: http://company-hr-portal.sbs/handbook",1
+"Security Notice: Multiple failed password attempts detected from IP 185.220.101.5. Click here to confirm identity: http://192.168.0.1/verify_account",1
+"Walmart Gift Card Winner: Congratulations! You were selected to receive a $1000 Walmart Shopper gift card. Claim reward here: http://walmart-rewards-winner.click/claim",1
+"Steam Support: Your account was reported for fraudulent trading. Trade verification is required within 4 hours at http://steamcommunity-trade-verify.top/profile",1
+"Coinbase Alert: A withdrawal request for 1.2 BTC has been initiated. If you did not request this, cancel transaction immediately at http://coinbase-cancel-withdrawal.xyz/tx",1
+"AT&T Billing: Your auto-pay method failed. Avoid line disconnection by paying balance now at http://att-mywireless-billpay.top/pay",1
+"Team, here are the meeting minutes and action items from today's sprint planning session. Let me know if anything was missed.",0
+"Hi Alex, could you review the pull request #142 for the authentication module when you get a chance? Thanks!",0
+"Your Amazon.com order #112-9482014-948271 has shipped! Tracking details and carrier updates are available in your account.",0
+"GitHub: Dependabot detected a moderate severity security vulnerability in package lodash. View details and update dependencies.",0
+"Quarterly company all-hands meeting is scheduled for Thursday at 2:00 PM EST via Google Meet. The agenda is attached.",0
+"Hi everyone, please remember to submit your timesheets by Friday 5 PM before the payroll cutoff.",0
+"Uber: Thanks for riding with us! Here is your receipt for your trip on October 28. Total: $18.42.",0
+"CS402 Computer Networks: Homework assignment 3 has been posted to Canvas. Submission deadline is November 10th at 11:59 PM.",0
+"Scheduled IT Maintenance: Campus Wi-Fi and student portal will undergo routine database maintenance this Sunday from 2 AM to 4 AM.",0
+"Your monthly bank e-statement for the period ending October 25 is now available in your online banking portal. Log in via your mobile app to view.",0
+"Hi team, I've pushed the updated database migration scripts to the staging branch. Please test locally before merging to main.",0
+"Airbnb Reservation Confirmed: Your booking in Chicago for November 14-17 has been confirmed by the host. Check-in instructions are inside.",0
+"Python Weekly Issue #620: Highlights on Python 3.13 features, FastAPI best practices, and new open-source ML libraries.",0
+"Hello, your support ticket #78491 regarding domain DNS configuration has been resolved. Let us know if you need additional assistance.",0
+"Slack Notification: You were mentioned by Sarah in #engineering-core: 'Can you take a look at the Redis connection pool settings?'",0
+"Your subscription to Spotify Premium has renewed for another month. Your payment of $10.99 was successfully processed.",0
+"Hi Professor Davis, I wanted to follow up regarding my topic proposal for the final cybersecurity research project. Thank you, Rahul.",0
+"GitLab: Pipeline #84920 for branch 'feature/risk-meter' passed in 3m 42s. All 48 unit tests succeeded.",0
+"Library Notice: The book 'Applied Cryptography by Bruce Schneier' is due for return on November 5th. You can renew online.",0
+"Jira: Issue SEC-304 'Implement rate limiting on login endpoint' has been transitioned to In Code Review by David.",0
+"Google Calendar: Invitation for 'Cyber Security Club Weekly Workshop' on Wednesday at 5:00 PM in Lab 302.",0
+"Thank you for attending the OWASP Student Chapter webinar on Zero Trust Architecture. The recording and slides are available on our site.",0
+"Hi team, just a reminder that the office will be closed next Monday for the public holiday. Enjoy the long weekend!",0
+"Your LinkedIn weekly search appearances: You appeared in 34 searches this week. See what companies searched for your skills.",0
+"Hi David, attached is the draft budget spreadsheet for next semester's lab equipment procurement. Please review the hardware specs.",0
+"Steam: An item on your wishlist is now on sale! Save 50% on Cyberpunk 2077 during the Autumn Sale.",0
+"Internal announcement: Open enrollment for health benefits is now open through November 20. Visit the employee intranet to make elections.",0
+"Hi Rahul, great job on the vulnerability assessment presentation yesterday! The faculty panel was very impressed with the methodology.",0
+"Your monthly electricity bill from City Power is ready. Amount due: $64.20 on November 15. View statement on our official portal.",0
+"Docker Hub: Automated build for repository 'cybersec/scanner' completed successfully with tag latest.",0
+"URGENT: Your Office 365 access has been revoked due to suspicious spam activities. Re-authenticate credentials at http://office365-verify-identity.top/login",1
+"Account Alert: Unauthorized withdrawal attempt of $920.00 from your Wells Fargo savings account. Block transaction at http://wellsfargo-fraud-prevention.xyz",1
+"Action Required: Your Apple ID is disabled for security reasons. Confirm billing details within 24 hours at http://appleid-unlock-service.club",1
+"Payroll System Alert: We were unable to process your paycheck due to invalid tax ID information. Update immediately: http://hr-payroll-update.work",1
+"Important: Your PayPal payment of $899.99 to BestBuy was processed. If this was a mistake, request immediate cancellation at http://paypal-dispute-refund.xyz",1
+"Security Warning: Your mailbox is full and has stopped receiving incoming emails. Expand mailbox quota here: http://mail-server-quota-upgrade.top/admin",1
+"IRS Alert: Tax evasion investigation opened against your name. Pay outstanding balance immediately via gift cards to avoid arrest: http://irs-case-settlement.xyz",1
+"DHL Parcel Status: Address verification required to deliver package tracking #DH99281. Click http://dhl-address-update.xyz to confirm your home address.",1
+"Dear member, your Netflix account will be suspended today. Click http://netflix-member-renew.top/secure to update your credit card details.",1
+"Chase Security Team: Suspicious debit transaction of $349 at Target. Confirm or dispute transaction now: http://chase-fraud-department.xyz/verify",1
+"DocuSign Alert: Urgent contract 'Confidential Settlement.pdf' expires in 6 hours. Sign now at http://docusign-envelope-sign.click/view",1
+"Bank Notice: We noticed unusual logins from Nigeria on your account. Protect your account right away at http://secure-banking-login.top/account",1
+"Google Drive: Someone shared 'Company Confidential Salaries 2026.xlsx' with you. Open link to view: http://drive-google-sharing.xyz/file",1
+"Warning: Cryptolocker has encrypted all personal documents on your hard drive. Send 0.1 Bitcoin to recover your private key: http://decrypt-helper.top",1
+"Amazon Security Alert: Suspicious sign-in detected on your account from unknown IP. Secure your account now at http://amazon-account-protection.xyz",1
+"Notice: The computer science departmental colloquium will take place on Friday at 3:00 PM in the auditorium.",0
+"Hi team, please find the weekly bug triage report attached. We closed 14 high-priority tickets this week.",0
+"Google Cloud Billing: Your monthly invoice for billing account #01928-39201 is ready for viewing in the Google Cloud Console.",0
+"Hi Kevin, could you send over the updated network topology diagram for the capstone project? Thanks!",0
+"ACM Student Chapter: Registration is now open for the annual 24-hour Hackathon. Form teams of up to 4 members.",0
+"Your flight reservation with Delta Airlines for Seattle (SEA) to New York (JFK) is confirmed. Flight DL402 departs at 8:30 AM.",0
+"Coursera: Congratulations on completing 'Machine Learning for Cybersecurity'! Your certificate is ready to download.",0
+"Weekly security digest: Latest CVE advisories, patch updates, and open vulnerabilities analyzed by the security team.",0
+"Hi everyone, the coffee machine on the 3rd floor break room is being serviced this afternoon.",0
+"Sublime Text / VS Code extension updates: Version 2.4.0 is now available with improved language server support.",0
+"Your receipt from App Store: Purchase of 'NordVPN 1-Year Subscription' for $59.88 on October 27, 2026.",0
+"Hi Rahul, your submission for the cyber forensics lab assignment has been graded. Score: 96/100.",0
+"Zoom meeting invite: Monthly Cyber Defense SIG sync on November 4, 2026 at 11:00 AM PST.",0
+"Overleaf: Project 'Deep Learning for Threat Detection' was edited by co-author Alex. Check change history.",0
+"Hi team, code freeze for the v2.1 release starts this Friday at midnight. Please finalize all pending PRs.",0
